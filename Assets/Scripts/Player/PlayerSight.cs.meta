@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 4b99e08e33168ec49acea1950d3db44e
+timeCreated: 1490874449
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1636804379582158, guid: 648eae942087d8c49bf1d50006a4d1f1, type: 2}
+  - sight: {fileID: 1242373201607178, guid: cb33aa466da254841b204e23a65e3eed, type: 2}
+  - cam: {fileID: 1993167257634772, guid: 53d2b947ae7bfa248ac5e008212e8a77, type: 2}
+  - GunBarel: {fileID: 1230463580689682, guid: 1ae076788b8af0446893b0c3f01a81c2, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
