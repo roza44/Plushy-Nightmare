@@ -4,4 +4,4 @@ Plushy Nightmare is an arcade type, third person shooter PC game made by followi
 
 Following video represents a playthrough of Plushy Nightmare video game:
 
-[![Watch the video](https://i9.ytimg.com/vi/o78i5zH6MPY/mq2.jpg?sqp=CMzH55gG&rs=AOn4CLCIUXwqUztLxbin7MoRufK8ZmQfBA&retry=3)](https://youtu.be/T-D1KVIuvjA)
+[![Watch the video](https://i9.ytimg.com/vi_webp/o78i5zH6MPY/mq2.webp?sqp=CJTMj5wG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYACigWKAgwIABABGFAgTShlMA8=&rs=AOn4CLCzb2EuSEs8vTFLer4-Pd_ZthyIyQ)](https://www.youtube.com/watch?v=o78i5zH6MPY)
